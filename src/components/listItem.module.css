@@ -1,0 +1,19 @@
+.title{
+    composes:common from 'common.module.css';
+    font-size: 20px;
+    color:#710000;
+}
+
+.list-title{
+    color: #004000;
+    font-weight: bold;
+}
+
+.digital{
+    border-radius: 5px;
+    margin:0 20px;
+    padding: 10px;
+    border: #eaeaea solid 1px;
+    background-color: #fff;
+    box-shadow: 0 0 4px rgba(100, 100, 100, .5);
+}
